@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+
+# Raw/source datasets
+archive/
+raw/
+
+# Generated outputs
+outputs/
+
+# Local files
+*.xlsx
+*.zip
+
+# Python cache
+*.pyc
